@@ -1,0 +1,119 @@
+# ----------------------------------------------------------------------
+# Config for theme: Initio
+# ----------------------------------------------------------------------
+
+baseurl                         = "https://appydave.com"
+languageCode                    = "en-au"
+title                           = "Appy Dave"
+theme                           = "initio"
+googleAnalytics                 = "UA-45288102-14"
+paginate                        = 12
+
+[taxonomies]
+  category                      = "categories"
+  tag                           = "tags"
+
+[params]
+
+    name                        = "Appy Dave"
+    favicon                     = "favicon.png"
+
+    description                 = "Appy Dave - Software Architect, Fullstack Developer, Dancer and LifeTourist"
+
+    email                       = ""
+    phone                       = "0424 00 3434"
+    address                     = "Miller Street, North Sydney, NSW 2060"
+
+    year                        = "2019"
+    avatar                      = "images/person.jpg"
+    background                  = "hero.jpg"
+    DateForm                    = "January 2, 2006"
+
+    showSubheader               = true
+    showServices                = true
+    showRecentWorks             = true
+    showDownload                = true
+    showClients                 = true
+
+    footerEnableContact         = true
+    footerEnableFollowme        = true
+    footerEnableTextWidget      = true
+
+    path                        = "/news"
+
+[[menu.main]]
+    name                        = "home"
+    url                         = "/"
+    weight                      = 1
+[[menu.main]]
+    name                        = "blog"
+    url                         = "/news/"
+    weight                      = 5
+
+[params.disqus]
+    site                        = ""
+
+[params.sharethis]
+    property                    = "123456789012345678901234"
+    custom                      = true
+
+[params.google.analytics]
+    trackerID                   = "UA-45288102-14"
+
+[[params.social]]
+	title                       = "Facebook"
+	url                         = "https://www.facebook.com/99Ideasmen"
+    icon                        = "fa-facebook-square"
+    footer                      = true
+    sharethis                   = true
+    network                     = "facebook"
+[[params.social]]
+	title                       = "Twitter"
+	url                         = "https://www.twitter.com/liifetourist"
+    icon                        = "fa-twitter-square"
+    footer                      = true
+    sharethis                   = true
+    network                     = "twitter"
+[[params.social]]
+	title                       = "Instagram"
+	url                         = "https://www.instagram.com/liifetourist"
+    icon                        = "fa-instagram"
+    footer                      = true
+    sharethis                   = true
+    network                     = "instagram"
+#    network                    = ""
+[[params.social]]
+	title                       = "Google+"
+	url                         = "https://plus.google.com/+davidcruwys"
+    icon                        = "fa-google-plus-square"
+    footer                      = true
+    sharethis                   = false
+    network                     = "google-plus"
+[[params.social]]
+	title                       = "Linkedin"
+	url                         = "https://www.linkedin.com/in/davidcruwys"
+    icon                        = "fa-linkedin-square"
+    footer                      = true
+    sharethis                   = false
+    network                     = "linkedin"
+[[params.social]]
+	title                       = "Tumblr"
+	url                         = "https://99wholoves.tumblr.com"
+    icon                        = "fa-tumblr-square"
+    footer                      = true
+    sharethis                   = false
+    network                     = "tumblr"
+[[params.social]]
+	title                       = "Github"
+	url                         = "https://github.com/klueless-io"
+    icon                        = "fa-github"
+    footer                      = true
+    sharethis                   = true
+    network                     = "github"
+[[params.social]]
+	title                       = "Email"
+	url                         = "mailto://david+appy@ideasmen.com.au"
+    icon                        = "fa-envelope"
+    footer                      = true
+    sharethis                   = true
+    network                     = "email"
