@@ -3,8 +3,28 @@ title = "Startups and Packathons"
 date = 2019-04-14
 +++
 
-I work in fast-paced startups with tight budgets and tighter deadlines; Each month I challenge my self with a Personal Hackathon.
+For much of my career, I work in fast-paced startups with tight budgets and tighter deadlines; I challenge my self with regular Personal Hackathons.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1st of December, 2018 - 
+
+Can I build 15 Applications in 30 Hours?
+
+I entered into the Freelancer Startcon Hackerthon to test out the klueless.io Static App Generator, and over 20 hours (time was cut short) I built seven Micro Service Headless Applications.
+
+March 31, 2019
+
+Can I build a Micro App in a Day?
+
+I built a Distributed Content Marketing application in a day using the klueless.io Static App Generator and documented the process.
+
+https://www.facebook.com/groups/sydneystartups/permalink/2583709678336963/
+
+April 14, 2019
+
+Can I build 15 Websites in a Day?
+
+https://www.facebook.com/groups/sydneystartups/permalink/2613897181984879/
+
+I used the distributed content marketing application that I built two weeks earlier as a foundation for building 17 websites in a day.
