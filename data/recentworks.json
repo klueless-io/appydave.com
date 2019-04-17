@@ -1,21 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "https://picsum.photos/300/200?image=0",
-        "url": "#",
+        "name": "Klueless.io",
+        "image": "images/feature/klueless-io.jpg",
+        "url": "https://klueless.io",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "Static App Gen",
+                "url": "https://klueless.io"
             }
         ]
     },
