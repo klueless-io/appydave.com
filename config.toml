@@ -22,7 +22,7 @@ paginate                        = 12
 
     email                       = ""
     phone                       = "https://www.linkedin.com/in/davidcruwys"
-    address                     = "Miller Street, North Sydney, NSW 2060"
+    address                     = "North Sydney, NSW 2060"
 
     year                        = "2019"
     avatar                      = "images/person.jpg"
@@ -38,6 +38,9 @@ paginate                        = 12
     footerEnableContact         = true
     footerEnableFollowme        = true
     footerEnableTextWidget      = true
+
+    footerWidgetTitle           = "Recent Win's"
+    footerWidgetText            = "<p>I built seven microservice applications in twenty hours at the Freelancer.com hackathon using my <a href='klueless.io'>klueless.io</a> static application generator with full test coverage. - Dec 2018</p>"
 
     path                        = "/news"
 
