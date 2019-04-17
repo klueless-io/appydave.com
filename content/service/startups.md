@@ -1,8 +1,9 @@
 +++
-title = "Custom website design"
+title = "Startups and Packathons"
+date = 2019-04-14
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+I work in fast-paced startups with tight budgets and tighter deadlines; Each month I challenge my self with a Personal Hackathon.
 
 <!--more-->
 
