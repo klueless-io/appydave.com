@@ -4,7 +4,7 @@
 
 baseurl                         = "https://appydave.com"
 languageCode                    = "en-au"
-title                           = "Appy Dave"
+title                           = "AppyDave"
 theme                           = "initio"
 googleAnalytics                 = "UA-45288102-14"
 paginate                        = 12
@@ -15,13 +15,13 @@ paginate                        = 12
 
 [params]
 
-    name                        = "Appy Dave"
+    name                        = "AppyDave"
+    tagline                     = "Software Architect, Fullstack / Micro App Developer and Dancer"
+    description                 = "Appy Dave - Software Architect, Fullstack / Micro App Developer and Dancer"
     favicon                     = "favicon.png"
 
-    description                 = "Appy Dave - Software Architect, Fullstack Developer, Dancer and LifeTourist"
-
     email                       = ""
-    phone                       = "0424 00 3434"
+    phone                       = "https://www.linkedin.com/in/davidcruwys"
     address                     = "Miller Street, North Sydney, NSW 2060"
 
     year                        = "2019"
@@ -49,6 +49,9 @@ paginate                        = 12
     name                        = "blog"
     url                         = "/news/"
     weight                      = 5
+
+[params.subheader]
+    description                 = "I created seven microservice applications in twenty hours at the <a href='https://www.startcon.com/hackathon' target='_blank'>Startcon hackathon</a> using my <a href='https://klueless.io' target='klueless'>klueless.io</a> static application generator with full test coverage. - Dec 2018"
 
 [params.disqus]
     site                        = ""
@@ -94,7 +97,7 @@ paginate                        = 12
 	url                         = "https://www.linkedin.com/in/davidcruwys"
     icon                        = "fa-linkedin-square"
     footer                      = true
-    sharethis                   = false
+    sharethis                   = true
     network                     = "linkedin"
 [[params.social]]
 	title                       = "Tumblr"
@@ -112,7 +115,7 @@ paginate                        = 12
     network                     = "github"
 [[params.social]]
 	title                       = "Email"
-	url                         = "mailto://david+appy@ideasmen.com.au"
+	url                         = "mailto://"
     icon                        = "fa-envelope"
     footer                      = true
     sharethis                   = true
