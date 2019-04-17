@@ -32,8 +32,8 @@ paginate                        = 12
     showSubheader               = true
     showServices                = true
     showRecentWorks             = true
-    showDownload                = true
-    showClients                 = true
+    showDownload                = false
+    showClients                 = false
 
     footerEnableContact         = true
     footerEnableFollowme        = true
