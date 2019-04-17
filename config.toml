@@ -27,7 +27,7 @@ paginate                        = 12
     year                        = "2019"
     avatar                      = "images/person.jpg"
     background                  = "hero.jpg"
-    DateForm                    = "January 2, 2006"
+    DateForm                    = "January 2, 2019"
 
     showSubheader               = true
     showServices                = true
@@ -52,6 +52,9 @@ paginate                        = 12
 
 [params.subheader]
     description                 = "I created seven microservice applications in twenty hours at the <a href='https://www.startcon.com/hackathon' target='_blank'>Startcon hackathon</a> using my <a href='https://klueless.io' target='klueless'>klueless.io</a> static application generator with full test coverage. - Dec 2018"
+
+[params.services]
+    title                       = "Distinctive Compentencies"
 
 [params.disqus]
     site                        = ""
