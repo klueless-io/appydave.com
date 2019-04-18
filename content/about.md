@@ -5,14 +5,27 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 
-![about](https://picsum.photos/600/400/?random)
+Micro Apps, Dancing and Vlogging are some of the things I love, and for 30 years I have been creating greenfield technology that helped companies I work with becoming leaders in their space.
 
-### Necessitatibus
+★ I built seven microservice applications in twenty hours at the Freelancer.com hackathon using my [klueless.io](https://klueless.io) static application generator with full test coverage. - Dec 2018
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+As a chief contributor to the successful delivery of several leading cloud enterprises and next-generation applications, I have always loved the science and the art of software development.
 
-### Fugit, laboriosam
+I feel most at home in funded startups or scaleups, but also happy to work in a corporate team explicitly looking to bring start-up methodologies into the enterprise.
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+I generally see myself as an application architect who focusses on DDD patterns, Micro Services / Apps and BDD testing.
+
+My personal belief is that all business software is the same if viewed from the perspective of patterns.
+
+I am a hands-on developer because I love it. I'm comfortable with Full Stack, Headless or Serverless architecture. I also enjoy the role of mentoring developers.
+
+I am technology agnostic, and a lot of my focus is on understanding the technical landscape of the IT industry. I have a keen understanding of business need and strategy that is often missed by developers.
+
+My current role is leading a team of 5 developers in SCRUM with an emphasis on mentoring junior developers to become professional developers with a regular review on SOLID, DRY  and BDD code.
+
+Additional skills include marketing, specifically storytelling, social media and video influencer marketing.
+		
+[klueless.io](https://klueless.io) – Static app generator that builds headless and serverless micro-apps using DDD models and with full coverage unit testing so developers can just add customizations. I utilised this tool recently at the Freelancer.com hackathon to create seven microservices in twenty hours.
+
+[klueless.io](https://klueless.io) ♦ [appydave.com](https://appydave.com) ♦ [davidcruwys.com](https://davidcruwys.com)
